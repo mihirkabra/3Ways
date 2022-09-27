@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_sms.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_call_button.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\call_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_chevron_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\ic_chevron_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_email.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_chevron_left_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_tab.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sms.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\layout\\activity_sms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_mic_black_24dp.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\drawable\\ic_mic_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\Kabra\\Desktop\\Android\\Call_Action\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    }
+]
